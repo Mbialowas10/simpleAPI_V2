@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fakerphp/faker": "^1.19",
+        "unsplash/unsplash": "^3.2"
+    }
+}
