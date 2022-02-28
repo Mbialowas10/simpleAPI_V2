@@ -43,7 +43,7 @@ $pdo->query($sql);
 
 
 // INSERT INTO api(name,email,browser) values name,email, browser;
-for ($i=0; $i< 500;$i++){
+for ($i=0; $i< 250;$i++){
 
   $name = $faker -> name();
   $city = $faker -> city();
